@@ -1,6 +1,6 @@
 # automated-personal-dictionary
 
-A handy automated tool made using python that helps to create a personal dictionary just by pressing a button. 
+A useful automated application written in Python that retrieves and previews the definition of a selected word for you, as well as assisting in the creation of a personal dictionary, all with the click of a button.
 
 # Use Case
 
@@ -18,7 +18,7 @@ This python script (**dictionary.py**) uses the build in tkinter module to get t
 ( **Created word list** )
 ![image](https://user-images.githubusercontent.com/31349598/122264371-17690500-cef5-11eb-92f4-3858c16a3254.png)
 
-# Change Log
+# Updates
 The definition of the selected word will now appear in the notification when you hit ctrl + c, and it will only be added to the dictionary if you press ctrl + i.
 
 <img width="286" alt="Notification" src="https://user-images.githubusercontent.com/31349598/122639403-46f75780-d117-11eb-8ca7-5e695731d49a.png"> 
